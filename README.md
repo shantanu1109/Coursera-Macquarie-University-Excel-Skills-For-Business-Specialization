@@ -101,19 +101,19 @@ In this last course of our Specialization Excel Skills for Business you will bui
 
 ## Certificate
 
-1. [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/S8WAEQ2VPKDK)
-2. [Excel Skills for Business: Intermediate - I](https://www.coursera.org/account/accomplishments/verify/MGJS87FW7MSL)
-3. [Excel Skills for Business: Intermediate - II](https://www.coursera.org/account/accomplishments/verify/NPPBWFJQ23QZ)
-4. [Excel Skills for Business: Advanced](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning)
-5. [Excel Skill for Business Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/SKN7EYANZWAT)
+1. [Excel Skills for Business: Essentials](https://www.coursera.org/account/accomplishments/verify/897HC2Z74LFW)
+2. [Excel Skills for Business: Intermediate - I](https://www.coursera.org/account/accomplishments/verify/ZBP5B65WTJCR)
+3. [Excel Skills for Business: Intermediate - II](https://www.coursera.org/account/accomplishments/verify/W5ZNBZT52DME)
+4. [Excel Skills for Business: Advanced](https://www.coursera.org/account/accomplishments/verify/M2URRAJ8TCGR)
+5. [Excel Skill for Business Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/SY4QD6RK62TQ)
 
 --------------------------------------------------------------------------------------------------------------
 
 ## References
-1. [Excel Skills for Business: Essentials](https://www.coursera.org/learn/linear-algebra-machine-learning?specialization=mathematics-machine-learning)
-2. [Excel Skills for Business: Intermediate - I](https://www.coursera.org/learn/multivariate-calculus-machine-learning?specialization=mathematics-machine-learning)
-3. [Excel Skills for Business: Intermediate - II](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning)
-4. [Excel Skills for Business: Advanced](https://www.coursera.org/learn/pca-machine-learning?specialization=mathematics-machine-learning)
+1. [Excel Skills for Business: Essentials](https://www.coursera.org/learn/excel-essentials?specialization=excel)
+2. [Excel Skills for Business: Intermediate - I](https://www.coursera.org/learn/excel-intermediate-1?specialization=excel)
+3. [Excel Skills for Business: Intermediate - II](https://www.coursera.org/learn/excel-intermediate-2?specialization=excel)
+4. [Excel Skills for Business: Advanced](https://www.coursera.org/learn/excel-advanced?specialization=excel)
 
 ----------------------------------------------------------------------------------------------------------------
 
