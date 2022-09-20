@@ -61,44 +61,41 @@ The best way to learn Excel is to use Excel. In this course, learners will solve
 
 Spreadsheet software is one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. At a time when digital skills jobs are growing much faster than non-digital jobs, make sure to position yourself ahead of the rest by adding Excel skills to your employment portfolio.
 
-* [Excel Skills for Business: Essentials](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-1-Mathematics%20for%20Machine%20Learning:%20Linear%20Algebra)
+* [Excel Skills for Business: Essentials](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-1-Excel-Skills-for-Business-Essentials)
 
 ### COURSE 2
 ### Excel Skills for Business: Intermediate - I
 
-This course offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. We start at the very beginning with a refresher on the “rise over run” formulation of a slope, before converting this to the formal definition of the gradient of a function. We then start to build up a set of tools for making calculus easier and faster. Next, we learn how to calculate vectors that point up hill on multidimensional surfaces and even put this into action using an interactive game. We take a look at how we can use calculus to build approximations to functions, as well as helping us to quantify how accurate we should expect those approximations to be. We also spend some time talking about where calculus comes up in the training of neural networks, before finally showing you how it is applied in linear regression models. This course is intended to offer an intuitive understanding of calculus, as well as the language necessary to look concepts up yourselves when you get stuck. Hopefully, without going into too much detail, you’ll still come away with the confidence to dive into some more focused machine learning courses in future.
+Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In the United States alone, millions of job advertisements requiring Excel skills are posted every day. Research by Burning Glass Technologies and Capital One shows that digitals skills lead to higher income and better employment opportunities at a time when digital skills job are growing much faster than non-digital jobs.
 
-* [Excel Skills for Business: Intermediate - I](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-2-Mathematics%20for%20Machine%20Learning:%20Multivariate%20Calculus)
+In this second course of our Excel specialization Excel Skills for Business you will build on the strong foundations of the Essentials course. Intermediate Skills I will expand your Excel knowledge to new horizons. You are going to discover a whole range of skills and techniques that will become a standard component of your everyday use of Excel. In this course, you will build a solid layer of more advanced skills so you can manage large datasets and create meaningful reports. These key techniques and tools will allow you to add a sophisticated layer of automation and efficiency to your everyday tasks in Excel.
+
+Once again, we have brought together a great teaching team that will be with you every step of the way. Prashan and Nicky will guide you through each week (and I am even going to make a guest appearance in Week 5 to help you learn about my favourite tool in Excel - shh, no spoilers!). Work through each new challenge step-by-step and in no time you will surprise yourself by how far you have come. This time around, we are going to follow Uma's trials and tribulations as she is trying to find her feet in a new position in the fictitious company PushPin. For those of you who have done the Essentials course, you will already be familiar with the company. Working through her challenges which are all too common ones that we encounter everyday, will help you to more easily relate to the skills and techniques learned in each week and apply them to familiar and new contexts.
+
+* [Excel Skills for Business: Intermediate - I](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-2-Excel-Skills-for-Business-Intermediate-I)
 
 ### COURSE 3
 ### Excel Skills for Business: Intermediate - II
 
-This intermediate-level course introduces the mathematical foundations to derive Principal Component Analysis (PCA), a fundamental dimensionality reduction technique. We'll cover some basic statistics of data sets, such as mean values and variances, we'll compute distances and angles between vectors using inner products and derive orthogonal projections of data onto lower-dimensional subspaces. Using all these tools, we'll then derive PCA as a method that minimizes the average squared reconstruction error between data points and their reconstruction.
+Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces across the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. In this third course of our Excel specialization Excel Skills for Business you will delve deeper into some of the most powerful features Excel has to offer. When you have successfully completed the course you will be able to
 
-At the end of this course, you'll be familiar with important mathematical concepts and you can implement PCA all by yourself. If you’re struggling, you'll find a set of jupyter notebooks that will allow you to explore properties of the techniques and walk you through what you need to do to get on track. If you are already an expert, this course may refresh some of your knowledge.
+Check for and prevent errors in spreadsheets; 
+Create powerful automation in spreadsheets; 
+Apply advanced formulas and conditional logic to help make informed business decisions; and
+Create spreadsheets that help forecast and model data. 
 
-The lectures, examples and exercises require:
-1. Some ability of abstract thinking
-2. Good background in linear algebra (e.g., matrix and vector algebra, linear independence, basis)
-3. Basic background in multivariate calculus (e.g., partial derivatives, basic optimization)
-4. Basic knowledge in python programming and numpy
+Once again, we have brought together a great teaching team that will be with you every step of the way. Nicky, Prashan and myself will guide you through each week. As we are exploring these more advanced topics, we are following Alex who is an Excel consultant called in by businesses that experience issues with their spreadsheets.
 
-* [Excel Skills for Business: Intermediate - II](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-3-Mathematics%20for%20Machine%20Learning:%20PCA)
+* [Excel Skills for Business: Intermediate - II](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-3-Excel-Skills-for-Business-Intermediate-II)
 
 ### COURSE 4
 ### Excel Skills for Business: Advanced
 
-This intermediate-level course introduces the mathematical foundations to derive Principal Component Analysis (PCA), a fundamental dimensionality reduction technique. We'll cover some basic statistics of data sets, such as mean values and variances, we'll compute distances and angles between vectors using inner products and derive orthogonal projections of data onto lower-dimensional subspaces. Using all these tools, we'll then derive PCA as a method that minimizes the average squared reconstruction error between data points and their reconstruction.
+Spreadsheet software remains one of the most ubiquitous pieces of software used in workplaces around the world. Learning to confidently operate this software means adding a highly valuable asset to your employability portfolio. Across the globe, millions of job advertisements requiring Excel skills are posted every day. At a time when digital skills jobs are growing much faster than non-digital jobs, completing this course will position you ahead of others, so keep reading.
 
-At the end of this course, you'll be familiar with important mathematical concepts and you can implement PCA all by yourself. If you’re struggling, you'll find a set of jupyter notebooks that will allow you to explore properties of the techniques and walk you through what you need to do to get on track. If you are already an expert, this course may refresh some of your knowledge.
+In this last course of our Specialization Excel Skills for Business you will build on the strong foundations of the first three courses: Essentials, Intermediate I + II.  In the Advanced course, we will prepare you to become a power user of Excel - this is your last step before specializing at a professional level. The topics we have prepared will challenge you as you learn how to use advanced formula techniques and sophisticated lookups. You will clean and prepare data for analysis, and learn how to work with dates and financial functions. An in-depth look at spreadsheet design and documentation will prepare you for our big finale, where you will learn how to build professional dashboards in Excel.
 
-The lectures, examples and exercises require:
-1. Some ability of abstract thinking
-2. Good background in linear algebra (e.g., matrix and vector algebra, linear independence, basis)
-3. Basic background in multivariate calculus (e.g., partial derivatives, basic optimization)
-4. Basic knowledge in python programming and numpy
-
-* [Excel Skills for Business: Advanced](https://github.com/shantanu1109/Coursera-Imperial-College-of-London-Mathematics-For-Machine-Learning-Specialization/tree/main/Course-3-Mathematics%20for%20Machine%20Learning:%20PCA)
+* [Excel Skills for Business: Advanced](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-4-Excel-Skills-for-Business-Advanced)
 
 -------------------------------------------------------------------------------------------------------------
 
